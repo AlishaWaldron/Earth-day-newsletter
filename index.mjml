@@ -1,0 +1,429 @@
+<mjml lang="en">
+  <mj-head>
+  <mj-attributes>
+  <mj-all font-family="Helvetica, sans serif" letter-spacing="1px">
+  <mj-section padding="0">
+  </mj-attributes>
+  <mj-title>Earth Day</mj-title>
+
+
+    <mj-style inline="inline"> 
+    .color-link{
+      color: #ffffff;
+      text-decoration: none;
+    }
+    
+    
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#f0fcf4"> 
+  <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">
+      Celebrate Earth Day with us. Earth Day is an annual event on April 22 to 
+      demonstrate support for environmental protection.
+      </div>
+ 
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;">
+      &#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;
+      </div>
+      </mj-raw>
+   <mj-include path="./component/header.mjml" />
+    <mj-raw>
+      <!-- header -->
+    </mj-raw>
+  
+    
+    <mj-section background-color="#ffffff">
+      <mj-column>
+       <mj-text
+       align="center"
+       color="#63ba7c"
+       text-transform="uppercase"
+       font-size="25px"
+       font-weight="300"
+       padding-bottom="0">
+       Celebrate
+       </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0"background-color="#ffffff">
+      <mj-column>
+       <mj-text
+       align="center"
+       color="#63ba7c"
+       font-weight="400"
+       text-transform="uppercase"
+       font-size="45px">
+       Earth Day
+       </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding-top="0">
+      <mj-column>
+       <mj-image
+       src="https://i.postimg.cc/KvhgRkXd/earth-circle.png"
+       alt="earth-with-leaf-around-it"
+       width="500px">
+       </mj-image>
+      </mj-column>
+    </mj-section> 
+    
+    
+    <mj-section background-color="#ffffff" padding-top="0">
+      <mj-column>
+       <mj-text 
+       align="center"
+       color="#63ba7c"
+       font-size="25px"
+       padding-bottom="30px"
+       letter-spacing="2px">
+       
+        What is Earth Day
+       </mj-text>
+
+       <mj-text
+       align="center"
+       line-height="19px"
+       font-size="15px"
+       color="#545151">
+       Earth Day is an annual event on April 22 to demonstrate support 
+       for environmental protection. First held on April 22, 1970, it 
+       now includes a wide range of events coordinated globally by 
+       EarthDay.org including 1 billion people in more than 193 
+       countries. The official theme for 2022 is Invest In Our Planet.
+       </mj-text>
+
+
+      <mj-button href="https://www.earthday.org/history/" color="#0d381a"
+       font-weight="500" padding-top="30px" font-size="16px" target="_blank"
+       background-color="#ffd200" border-radius="5px" text-transform="uppercase"
+       href="https://www.earthday.org/history/">
+       read more</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+    <!--end of yellow bg-->
+    </mj-raw>
+    
+    
+    <mj-section padding-bottom="0" background-color="#ffffff" padding-top="40px">
+      <mj-column>
+       <mj-text
+       align="center"
+       color="#63ba7c"
+       font-weight="400"
+       font-size="45px">
+       What you can do
+       </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="30px">
+      <mj-column>
+       <mj-text
+       align="center"
+       color="#63ba7c"
+       text-transform="uppercase"
+       font-size="22px"
+       padding-bottom="0">
+       To live a green life
+       </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#ffffff" padding-top="40px"
+    background-repeat="repeat" text-align="center">
+    <mj-column>
+    <mj-image 
+    src="https://i.postimg.cc/dV47H57Y/recycle-bin.png"
+    alt="green-recycle-bin-with-two-people"
+    width="300px">
+    </mj-image>
+    </mj-column> 
+    
+    <mj-column>
+    <mj-text 
+      color="#61ba7a"
+       font-size="25px">
+    Recycle & resue
+    </mj-text>
+    <mj-text 
+    line-height="19px"
+    font-size="15px"
+    color="#545151">
+    Learn how reducing, reusing, and recycling can help you, your 
+    community, and the environment by saving money, energy, and 
+    natural resources. Recycling programs are managed at the state 
+    and local level find information on recycling in your community. 
+    </mj-text>
+
+    <mj-button href="https://www.earthday.org/history/" color="#0d381a"
+       font-weight="500" font-size="16px" align="center"
+       background-color="#ffffff" border="2px solid #ffd200" target="_blank"
+       border-radius="5px" href="https://www.earthday.org/news-and-stories/">READ MORE</mj-button>
+    </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding-top="40px"
+    direction="rtl" background-repeat="repeat" text-align="center">
+  <mj-column>
+    <mj-image 
+    src="https://i.postimg.cc/9MvwPzDw/green-tree.png"
+    alt="plant-with-two-people-on-each-side"
+    width="300px">
+    </mj-image>
+    </mj-column> 
+
+
+    <mj-column>
+    <mj-text css-class="green-tree"
+      color="#61ba7a"
+       font-size="25px"
+       line-height="30px">
+    Care for the environment
+    </mj-text>
+    <mj-text css-class="green-tree"
+    line-height="19px"
+    font-size="15px"
+    
+    color="#545151">
+    The Earth has all the things we need to live, but we need to take 
+    care of the Earth so it can keep giving us what we need. Caring for
+   the environment means doing things that will keep the Earth healthy,
+   like recycling your plastic bottles instead of throwing them in the 
+   bin, and turning off lights when you don't need them on anymore.
+    </mj-text>
+
+    <mj-button href="https://www.earthday.org/history/" color="#0d381a"
+       font-weight="500" font-size="16px" 
+       background-color="#ffffff" border="2px solid #ffd200" align="center"
+       border-radius="5px" css-class="greentree-img" target="blank"
+       href="https://www.earthday.org/news-and-stories/">READ MORE</mj-button>
+    </mj-column>
+    
+    
+    </mj-section>
+    
+
+    <mj-section background-color="#ffffff" padding-top="40px"
+     background-repeat="repeat" text-align="center">
+    <mj-column>
+    <mj-image 
+    src="https://i.postimg.cc/MTjvGx96/yellow-car.png"
+    alt="yellow-car-at-gas-pump"
+    width="300px">
+    </mj-image>
+    </mj-column> 
+    
+    <mj-column>
+    <mj-text 
+      color="#61ba7a"
+       font-size="24px"
+       line-height="30px"
+       >
+    Use renewable/green energy
+    </mj-text>
+    <mj-text 
+    line-height="19px" 
+    font-size="15px"
+    color="#545151">
+    Learn how reducing, reusing, and recycling can help you, your 
+    community, and the environment by saving money, energy, and 
+    natural resources. Recycling programs are managed at the state 
+    and local level find information on recycling in your community. 
+    </mj-text>
+
+    <mj-button href="https://www.earthday.org/history/" color="#0d381a"
+       font-weight="500" font-size="16px" align="center"
+       background-color="#ffffff" border="2px solid #ffd200"
+       border-radius="5px"  target="blank"
+       href="https://www.earthday.org/news-and-stories/">READ MORE</mj-button>
+    </mj-column>
+    </mj-section>
+
+    <mj-section  background-color="#ffffff">
+    <mj-column>
+    <mj-button href="https://www.earthday.org/history/" color="#0d381a"
+       font-weight="500" padding-top="30px" font-size="16px"
+       background-color="#ffd200" border-radius="5px" target="blank"
+       text-transform="uppercase" href="https://www.earthday.org/news-and-stories/">
+       learn more</mj-button>
+    </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#63ba7c" padding-top="30px">
+    <mj-column>
+    <mj-text 
+    align="center"
+    color="#ffffff"
+    font-size="45px"
+    padding-bottom="35px"
+    letter-spacing="2px">
+    What is green energy?
+    </mj-text>
+       
+       <mj-image
+       src="https://i.postimg.cc/J43HJrMt/house.png"
+       alt="solar-panel-house"
+       width="400px"
+       >
+       </mj-image>
+
+       <mj-text 
+       line-height="25px"
+       align="center"
+       color="#ffffff"
+       font-size="20px"
+       padding-bottom="30px">
+       
+       Green power is a subset of renewable energy. It represents those
+        renewable energy resources and technologies that provide the 
+        greatest environmental benefit. Within the U.S. voluntary market,
+         green power is defined as electricity produced from solar, wind, 
+         geothermal, biogas, eligible biomass, and low-impact small 
+         hydroelectric sources.
+       </mj-text>
+    </mj-column>
+    </mj-section>
+    
+    <mj-raw>
+    <!--start of three column image-->
+    </mj-raw>
+
+    <mj-section background-color="#63ba7c" padding-top="0">
+    <mj-column>
+    <mj-image 
+    src="https://i.postimg.cc/LsWJRhBQ/wind-generators.png"
+    alt="wind-generators"
+    width="200px">
+    </mj-image>
+
+    <mj-text
+     line-height="25px"
+       align="center"
+       color="#ffffff"
+       font-size="20px"
+     >
+    Wind generators
+    </mj-text>
+    </mj-column>
+    <mj-column>
+    <mj-image 
+    src="https://i.postimg.cc/PqJCB1Z8/solar-panels.png"
+    alt="solar-panels"
+    width="200px">
+    </mj-image>
+
+    <mj-text
+    line-height="25px"
+       align="center"
+       color="#ffffff"
+       font-size="20px"
+    >
+    Solars panels
+    </mj-text>
+    </mj-column>
+    <mj-column>
+    <mj-image 
+    src="https://i.postimg.cc/ryrrVGH1/hydro-energy.png"
+    alt="hydro-energy"
+    width="200px">
+    </mj-image>
+
+    <mj-text
+    line-height="25px"
+       align="center"
+       color="#ffffff"
+       font-size="21px"
+    >
+    Hydro <br>energy
+    </mj-text>
+    </mj-column>
+    </mj-section>
+    <mj-raw>
+    <!--end of three column image-->
+    </mj-raw> 
+    
+    <mj-section  background-color="#63ba7c">
+    <mj-column>
+    <mj-button href="https://www.earthday.org/history/" color="#0d381a"
+       font-weight="500" padding-top="0" font-size="16px"
+       background-color="#eff1f0" border-radius="5px" 
+       text-transform="uppercase">
+       Read more</mj-button>
+    </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#63ba7c" padding-top="100px">
+  <mj-column>
+    <mj-image src="https://i.postimg.cc/yNpZdLBP/green-title.png" 
+    alt="white-circles"
+    width="120px">
+    </mj-image>
+
+    <mj-text
+    align="center"
+    line-height="22px"
+    color="#ffffff"
+    padding="30px"
+    font-size="16px"
+    padding-bottom="0"
+    >
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+    Aenean commodo ligula eget dolor. Aenean massa.
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+  <mj-raw>
+  <!--start of social icon-->
+  </mj-raw>
+
+  <mj-section background-color="#63ba7c" padding-top="0" padding-bottom="0">      
+  <mj-column>
+        <mj-social font-size="15px" icon-size="34px" mode="horizontal">
+          <mj-social-element name="facebook" src="https://i.postimg.cc/9fQ9C630/facebook.png"
+          background-color="#63ba7c" alt="facebook-logo" href="https://www.earthday.org/history/">
+            
+          </mj-social-element>
+          <mj-social-element name="twitter" src="https://i.postimg.cc/dVqkjbV6/twitter.png"
+          background-color="#63ba7c" alt="twitter-logo" href="https://www.earthday.org/history/">
+            
+          </mj-social-element>
+          <mj-social-element  name="linkedin" src="https://i.postimg.cc/J0ZDpmX6/linkedin.png"
+          background-color="#63ba7c" alt="linkedin-logo" href="https://www.earthday.org/history/">
+            
+          </mj-social-element>
+          <mj-social-element  name="instagram" src="https://i.postimg.cc/SsXzzcxp/instagram.png"
+          background-color="#63ba7c" alt="instagram-logo" href="https://www.earthday.org/history/">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+  </mj-section>
+
+  <mj-raw>
+  <!--end of social icon-->
+  </mj-raw>
+  
+  <mj-section background-color="#63ba7c" padding-top="0" padding-bottom="35px">
+  <mj-column >
+  <mj-text line-height="22px" padding-bottom="15px" padding-top="0px" 
+  padding="10px 25px">
+
+          <p style="text-align: center; margin: 10px 0;color:#ffffff;font-size:15px;
+          font-family:Roboto, sans serif; text-transform: capitalize"><a href="https://www.earthday.org/privacy-policy-2/" class="color-link"> Term & condition</a> | 
+          <a href="https://www.earthday.org/privacy-policy-2/" class="color-link">Contact Us </a> |<a href="" class="color-link"> Unsubscribe</a> </p>
+        </mj-text>
+  </mj-column>
+  </mj-section>
+
+
+  </mj-body>
+</mjml>
